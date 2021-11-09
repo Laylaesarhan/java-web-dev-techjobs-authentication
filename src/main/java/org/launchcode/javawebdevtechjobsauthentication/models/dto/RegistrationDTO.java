@@ -1,4 +1,6 @@
-package org.launchcode.javawebdevtechjobsauthentication.models;
+package org.launchcode.javawebdevtechjobsauthentication.models.dto;
+
+import org.launchcode.javawebdevtechjobsauthentication.models.dto.LoginDTO;
 
 public class RegistrationDTO  extends LoginDTO {
     private String verifyPassword;

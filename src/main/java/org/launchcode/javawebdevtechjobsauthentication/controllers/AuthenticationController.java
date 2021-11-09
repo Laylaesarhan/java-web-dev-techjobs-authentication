@@ -1,6 +1,6 @@
 package org.launchcode.javawebdevtechjobsauthentication.controllers;
 
-import org.launchcode.javawebdevtechjobsauthentication.models.RegistrationDTO;
+import org.launchcode.javawebdevtechjobsauthentication.models.dto.RegistrationDTO;
 import org.launchcode.javawebdevtechjobsauthentication.models.User;
 import org.launchcode.javawebdevtechjobsauthentication.models.data.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package org.launchcode.javawebdevtechjobsauthentication.models;
+package org.launchcode.javawebdevtechjobsauthentication.models.dto;
 
 import com.sun.istack.NotNull;
 
